@@ -4,6 +4,8 @@
  */
 package javaproject;
 
+import java.util.Scanner;
+
 
 public class JAVAproject {
 
@@ -14,7 +16,10 @@ public class JAVAproject {
         System.out.println("Good Day Philippines");
         int a = 1;
         System.out.println(a);
-        
+        Scanner scan = new Scanner(System.in);
+        System.out.println("name: ");
+        String name = scan.nextLine;
+        System.out.println("your name is: " + name);
    }
     
 }
