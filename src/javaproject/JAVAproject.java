@@ -4,17 +4,17 @@
  */
 package javaproject;
 
-/**
- *
- * @author USER
- */
+
 public class JAVAproject {
 
-    /**
-     * @param args the command line arguments
-     */
+   
     public static void main(String[] args) {
-        // TODO code application logic here
-    }
+       
+        System.out.println("Hello World");
+        System.out.println("Good Day Philippines");
+        int a = 1;
+        System.out.println(a);
+        
+   }
     
 }
